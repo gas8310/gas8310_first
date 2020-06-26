@@ -103,5 +103,6 @@ int main() {
 	{
 		printf("찾는 값 x의 위치는 %d 이며 값은 %d입니다.\n", binary_result, arr[binary_result]);
 	} 
+	printf("%s\n", "git테스트용");
 	return 0;
 }
